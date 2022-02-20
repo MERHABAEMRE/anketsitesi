@@ -1,0 +1,88 @@
+﻿@model anketodevi.Models.Soru
+@{
+    ViewBag.Title = "soru1";
+}
+
+
+<form method="post" action="/sorular/soru2" class="form-group">
+
+    <div class="form-group" style="margin-left:50px;">
+        <h4>SORU 1</h4>
+        <input type="text" name="Tanim" value="Edremit'in sevdiğiniz yemeklerini seçin" readonly style="width:500px;height:70px;color:white;background-color:black;border-radius:20px;text-align:center;">
+
+        <br>
+
+        <input class="secim" type="checkbox" name="secildimi1" value="true" onclick="kontrolet1()" checked style="width:20px;height:20px;margin-right:10px;margin-top:15px;">
+        <input type="text" name="icerik1" value="Balıkesir Kaymaklısı" readonly style="width:150px;margin-bottom:10px;text-align:center;border-color:transparent;"><br>
+        <input class="secim1" type="checkbox" name="secildimi2" value="true" onclick="kontrolet2()" checked style="width:20px;height:20px;margin-right:10px;margin-top:15px;">
+        <input type="text" name="icerik2" value="Börülce" readonly style="width:150px;margin-bottom:10px;text-align:center;border-color:transparent;"><br>
+        <input class="secim2" type="checkbox" name="secildimi3" value="true" onclick="kontrolet3()" checked style="width:20px;height:20px;margin-right:10px;margin-top:15px;">
+        <input type="text" name="icerik3" value="Zeytinyağlı" readonly style="width:150px;margin-bottom:10px;text-align:center;border-color:transparent;"><br>
+        <input class="secim3" type="checkbox" name="secildimi4" value="true" onclick="kontrolet4()" checked style="width:20px;height:20px;margin-right:10px;margin-top:15px;">
+        <input type="text" name="icerik4" value="Karanfilli Ekmek" readonly style="width:150px;margin-bottom:10px;text-align:center;border-color:transparent;"><br>
+        <button type="submit" id="kontrol" class="btn btn-success">SONRAKİ SORU</button>
+
+    </div>
+    <script>
+
+        var secim = document.querySelector(".secim");
+
+        function kontrolet1() {
+
+            var x = secim.getAttribute("value")
+            if (x == "true") {
+                secim.removeAttribute("value")
+                secim.setAttribute("value", "false");
+
+
+            }
+            else if (x == "false") {
+                secim.removeAttribute("value")
+                secim.setAttribute("value", "true");
+            }
+
+        }
+        var secim1 = document.querySelector(".secim1");
+        function kontrolet2() {
+            var x = secim1.getAttribute("value")
+            if (x == "true") {
+                secim1.removeAttribute("value")
+                secim1.setAttribute("value", "false");
+            }
+            else if (x == "false") {
+                secim1.removeAttribute("value")
+                secim1.setAttribute("value", "true");
+            }
+        }
+        var secim2 = document.querySelector(".secim2");
+        function kontrolet3() {
+            var x = secim2.getAttribute("value")
+            if (x == "true") {
+                secim2.removeAttribute("value")
+                secim2.setAttribute("value", "false");
+            }
+            else if (x == "false") {
+                secim2.removeAttribute("value")
+                secim2.setAttribute("value", "true");
+            }
+        }
+        var secim3 = document.querySelector(".secim3");
+        function kontrolet4() {
+            var x = secim3.getAttribute("value")
+            if (x == "true") {
+                secim3.removeAttribute("value")
+                secim3.setAttribute("value", "false");
+            }
+            else if (x == "false") {
+                secim3.removeAttribute("value")
+                secim3.setAttribute("value", "true");
+            }
+        }
+
+    </script>
+
+
+
+</form>
+
+

@@ -1,0 +1,42 @@
+﻿@model anketodevi.Models.kayıtlıanketlistesi
+
+@{
+    ViewBag.Title = "yenisorular";
+}
+
+
+<form method="post" action="/sorular/yenisonuclar" class="form-group">
+
+    <div class="form-group" style="margin-left:50px;">
+
+        @for (int i = 0; i < Model.Anketlisteleri[1].Anketlist.Count - 1; i++)
+        {
+            <h4> SORU </h4>
+            @Model.Anketlisteleri[1].Anketlist[i].sorulist[0].Tanim
+            <br><br>
+            for (int j = 0; j < Model.Anketlisteleri[1].Anketlist.Count - 1; j++)
+            {
+                @Html.HiddenFor(m => Model.Anketlisteleri[1].Anketlist[i].sorulist[j].Tanim)
+                @Html.HiddenFor(m => Model.Anketlisteleri[1].Anketlist[i].sorulist[j].Id)
+                @Html.HiddenFor(m => Model.Anketlisteleri[1].Anketlist[i].sorulist[j].icerik)
+                @Html.CheckBoxFor(m => Model.Anketlisteleri[1].Anketlist[i].sorulist[j].secildimi)
+                @Model.Anketlisteleri[0].Anketlist[i].sorulist[j].icerik
+
+
+            }
+            <br>
+        }
+        <br>
+        <h4> SORU </h4>
+        @Model.Anketlisteleri[0].Anketlist[4].sorulist[0].Tanim @Html.HiddenFor(m => Model.Anketlisteleri[0].Anketlist[4].sorulist[0].Tanim)<br><br>
+        @Html.TextBoxFor(m => Model.Anketlisteleri[0].Anketlist[4].sorulist[0].icerik)
+        <br><br>
+
+    </div>
+
+    <button type="submit" id="kontrol" class="btn btn-success" style="margin-left:50px">SONUÇLAR</button>
+</form>
+
+
+
+

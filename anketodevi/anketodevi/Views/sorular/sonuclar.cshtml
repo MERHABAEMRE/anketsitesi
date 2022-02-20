@@ -1,0 +1,54 @@
+﻿@using anketodevi.Models
+@model List<Anketlistesi>
+@{
+    ViewBag.Title = "sonuclar";
+}
+    
+        <h2>SONUÇLAR</h2>
+        <a href="/sorular/yenisorular" class="btn btn-success" style="margin-left:30px;">YENİ ANKET EKLE</a>
+          
+        <table class="table-bordered table-responsive table-striped" style="margin-left:30px;">
+            <thead>
+                <tr>
+                    <td>Soru 1</td>
+                    <td>Soru 2</td>
+                    <td>Soru 3</td>
+                    <td>Soru 4</td>
+                    <td>Soru 5</td>
+                    <td>GÜNCELLE</td>
+                    <td>SİL</td>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var anketlist in Model)
+                {
+                    <tr>
+                        @foreach (var anketlist1 in Model[0].Anketlist)
+                        {
+                            <td>
+                                @for (int i = 0; i < anketlist1.sorulist.Count; i++)
+                                {
+
+                                    if (anketlist1.sorulist[i].secildimi == true)
+                                    {
+
+                                        @anketlist1.sorulist[i].icerik
+
+                                    }
+                                    if (i + 1 < anketlist1.sorulist.Count)
+                                    {
+                                        if (anketlist1.sorulist[i + 1].secildimi == true)
+                                        { <h3 style="display:inline;">,</h3>}
+                                    }
+                                }
+                            </td>
+                        }
+                        <td><a href="" class="btn btn-primary">Güncelle</a> </td>
+                        <td><a href="" class="btn btn-danger">sil</a> </td>
+
+                    </tr>
+                }
+            </tbody>
+
+
+        </table>

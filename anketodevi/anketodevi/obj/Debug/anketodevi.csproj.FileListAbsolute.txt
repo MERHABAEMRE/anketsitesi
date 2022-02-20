@@ -1,0 +1,412 @@
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\anketodevi.dll.config
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\anketodevi.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\anketodevi.pdb
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\roslyn\csc.exe
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\roslyn\csc.exe.config
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\roslyn\csc.rsp
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\roslyn\csi.exe
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\roslyn\csi.exe.config
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\roslyn\csi.rsp
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\roslyn\System.AppContext.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\roslyn\System.Console.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\roslyn\System.IO.Compression.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\roslyn\System.Security.Claims.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\roslyn\System.ValueTuple.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\roslyn\vbc.exe
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\roslyn\vbc.exe.config
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\roslyn\vbc.rsp
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\Antlr3.Runtime.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\System.Web.Helpers.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\System.Web.Mvc.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\System.Web.Optimization.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\System.Web.Razor.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\System.Web.WebPages.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\System.Web.WebPages.Razor.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\WebGrease.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\System.Web.Helpers.xml
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\System.Web.Mvc.xml
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\System.Web.Optimization.xml
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\System.Web.Razor.xml
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\System.Web.WebPages.xml
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\System.Web.WebPages.Razor.xml
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\Newtonsoft.Json.xml
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\Antlr3.Runtime.pdb
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\tr\System.Web.Razor.resources.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\obj\Debug\anketodevi.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\anketodevi\anketodevi\obj\Debug\anketodevi.csproj.CopyComplete
+C:\Users\USER\Desktop\anketodevi\anketodevi\obj\Debug\anketodevi.dll
+C:\Users\USER\Desktop\anketodevi\anketodevi\obj\Debug\anketodevi.pdb
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\anketodevi.dll.config
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\anketodevi.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\anketodevi.pdb
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\roslyn\csc.exe
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\roslyn\csc.exe.config
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\roslyn\csc.rsp
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\roslyn\csi.exe
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\roslyn\csi.exe.config
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\roslyn\csi.rsp
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\roslyn\System.AppContext.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\roslyn\System.Console.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\roslyn\System.IO.Compression.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\roslyn\System.Security.Claims.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\roslyn\System.ValueTuple.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\roslyn\vbc.exe
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\roslyn\vbc.exe.config
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\roslyn\vbc.rsp
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\Antlr3.Runtime.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\System.Web.Helpers.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\System.Web.Mvc.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\System.Web.Optimization.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\System.Web.Razor.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\System.Web.WebPages.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\System.Web.WebPages.Razor.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\WebGrease.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\System.Web.Helpers.xml
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\System.Web.Mvc.xml
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\System.Web.Optimization.xml
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\System.Web.Razor.xml
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\System.Web.WebPages.xml
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\System.Web.WebPages.Razor.xml
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\Newtonsoft.Json.xml
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\Antlr3.Runtime.pdb
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\tr\System.Web.Razor.resources.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\obj\Debug\anketodevi.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\obj\Debug\anketodevi.csproj.CopyComplete
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\obj\Debug\anketodevi.dll
+C:\Users\USER\Desktop\3.2 final\anketodevi\anketodevi\obj\Debug\anketodevi.pdb
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\anketodevi.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\anketodevi.pdb
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\roslyn\csc.exe
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\roslyn\csc.exe.config
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\roslyn\csc.rsp
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\roslyn\csi.exe
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\roslyn\csi.exe.config
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\roslyn\csi.rsp
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\roslyn\Microsoft.Managed.Core.targets
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\roslyn\System.AppContext.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\roslyn\System.Collections.Immutable.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\roslyn\System.Console.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\roslyn\System.IO.Compression.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\roslyn\System.IO.FileSystem.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\roslyn\System.IO.Pipes.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\roslyn\System.Reflection.Metadata.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\roslyn\System.Security.AccessControl.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\roslyn\System.Security.Claims.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\roslyn\System.Security.Principal.Windows.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\roslyn\System.ValueTuple.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\roslyn\System.Xml.XPath.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\roslyn\vbc.exe
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\roslyn\vbc.exe.config
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\roslyn\vbc.rsp
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\roslyn\VBCSCompiler.exe
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\roslyn\VBCSCompiler.exe.config
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\Antlr3.Runtime.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\Microsoft.Web.Infrastructure.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\Newtonsoft.Json.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\System.Web.Helpers.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\System.Web.Mvc.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\System.Web.Optimization.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\System.Web.Razor.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\System.Web.WebPages.Deployment.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\System.Web.WebPages.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\System.Web.WebPages.Razor.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\WebGrease.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\System.Web.Helpers.xml
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\System.Web.Mvc.xml
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\System.Web.Optimization.xml
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\System.Web.Razor.xml
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\System.Web.WebPages.xml
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\System.Web.WebPages.Deployment.xml
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\System.Web.WebPages.Razor.xml
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\Newtonsoft.Json.xml
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\Antlr3.Runtime.pdb
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\tr\System.Web.Helpers.resources.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\tr\System.Web.Mvc.resources.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\tr\System.Web.Optimization.resources.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\tr\System.Web.Razor.resources.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\tr\System.Web.WebPages.resources.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\tr\System.Web.WebPages.Deployment.resources.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\bin\tr\System.Web.WebPages.Razor.resources.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\obj\Debug\anketodevi.csprojAssemblyReference.cache
+D:\akademik\3.2 final\anketodevi\anketodevi\obj\Debug\anketodevi.csproj.CoreCompileInputs.cache
+D:\akademik\3.2 final\anketodevi\anketodevi\obj\Debug\anketodevi.csproj.CopyComplete
+D:\akademik\3.2 final\anketodevi\anketodevi\obj\Debug\anketodevi.dll
+D:\akademik\3.2 final\anketodevi\anketodevi\obj\Debug\anketodevi.pdb
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\anketodevi.dll.config
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\anketodevi.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\anketodevi.pdb
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\roslyn\csc.exe
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\roslyn\csc.exe.config
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\roslyn\csc.rsp
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\roslyn\csi.exe
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\roslyn\csi.exe.config
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\roslyn\csi.rsp
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\roslyn\System.AppContext.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\roslyn\System.Console.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\roslyn\System.IO.Compression.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\roslyn\System.Security.Claims.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\roslyn\System.ValueTuple.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\roslyn\vbc.exe
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\roslyn\vbc.exe.config
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\roslyn\vbc.rsp
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\roslyn\VBCSCompiler.exe
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\Antlr3.Runtime.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\Newtonsoft.Json.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\System.Web.Helpers.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\System.Web.Mvc.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\System.Web.Optimization.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\System.Web.Razor.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\System.Web.WebPages.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\System.Web.WebPages.Razor.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\WebGrease.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\System.Web.Helpers.xml
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\System.Web.Mvc.xml
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\System.Web.Optimization.xml
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\System.Web.Razor.xml
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\System.Web.WebPages.xml
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\System.Web.WebPages.Razor.xml
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\Newtonsoft.Json.xml
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\Antlr3.Runtime.pdb
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\tr\System.Web.Razor.resources.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\obj\Debug\anketodevi.csproj.AssemblyReference.cache
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\obj\Debug\anketodevi.csproj.CoreCompileInputs.cache
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\obj\Debug\anketodevi.csproj.CopyComplete
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\obj\Debug\anketodevi.dll
+C:\Users\aliem\OneDrive\Masaüstü\anketodevi\anketodevi\obj\Debug\anketodevi.pdb
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\anketodevi.dll.config
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\anketodevi.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\anketodevi.pdb
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\roslyn\csc.exe
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\roslyn\csc.exe.config
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\roslyn\csc.rsp
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\roslyn\csi.exe
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\roslyn\csi.exe.config
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\roslyn\csi.rsp
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\roslyn\System.AppContext.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\roslyn\System.Console.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\roslyn\System.IO.Compression.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\roslyn\System.Security.Claims.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\roslyn\System.ValueTuple.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\roslyn\vbc.exe
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\roslyn\vbc.exe.config
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\roslyn\vbc.rsp
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\roslyn\VBCSCompiler.exe
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\Antlr3.Runtime.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\Newtonsoft.Json.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\System.Web.Helpers.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\System.Web.Mvc.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\System.Web.Optimization.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\System.Web.Razor.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\System.Web.WebPages.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\System.Web.WebPages.Razor.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\WebGrease.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\System.Web.Helpers.xml
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\System.Web.Mvc.xml
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\System.Web.Optimization.xml
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\System.Web.Razor.xml
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\System.Web.WebPages.xml
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\System.Web.WebPages.Razor.xml
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\Newtonsoft.Json.xml
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\Antlr3.Runtime.pdb
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\tr\System.Web.Razor.resources.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\obj\Debug\anketodevi.csproj.AssemblyReference.cache
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\obj\Debug\anketodevi.csproj.CoreCompileInputs.cache
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\obj\Debug\anketodevi.csproj.CopyComplete
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\obj\Debug\anketodevi.dll
+C:\Users\aliem\OneDrive\Masaüstü\projeler\projeler\anketodevi\anketodevi\obj\Debug\anketodevi.pdb
